@@ -8,9 +8,9 @@
  * @source https://github.com/Gabe616/NitroGone/blob/main/source.css
 */
 
+@import url(https://raw.githubusercontent.com/Gabe616/NitroGone/main/source.css);
+
 :root {
   --nitro-visibility: none;
   --server-boost-visibility: none;
 }
-
-@import url(https://raw.githubusercontent.com/Gabe616/NitroGone/main/source.css);
