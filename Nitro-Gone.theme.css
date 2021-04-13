@@ -1,0 +1,16 @@
+/**
+ * @name Nitro Gone
+ * @version 1.0
+ * @description Automatically hides all Nitro/Server Boost ads
+ * @author am I even a pog fish#5866
+ * @authorLink https://github.com/Gabe616
+ *
+ * @source https://github.com/Gabe616/NitroGone/blob/main/source.css
+*/
+
+:root {
+  --nitro-visibility: none;
+  --server-boost-visibility: none;
+}
+
+@import url(https://raw.githubusercontent.com/Gabe616/NitroGone/main/source.css);
